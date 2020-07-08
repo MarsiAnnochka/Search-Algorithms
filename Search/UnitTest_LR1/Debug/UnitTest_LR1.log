@@ -1,0 +1,6 @@
+﻿  unittest1.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\arraysequence.h(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\arraysequence.h(12): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\unittest_lr1\unittest1.cpp(27): note: выполняется компиляция ссылки на экземпляр шаблон функции "ArraySequence<int>::ArraySequence(int)"
+  c:\users\аня егорова\source\repos\лр0\unittest_lr1\unittest1.cpp(27): note: выполняется компиляция ссылки на экземпляр шаблон класс "ArraySequence<int>"
+  UnitTest_LR1.vcxproj -> C:\Users\Аня Егорова\source\repos\ЛР0\Debug\UnitTest_LR1.dll

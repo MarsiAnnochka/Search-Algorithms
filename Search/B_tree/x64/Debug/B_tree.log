@@ -1,0 +1,87 @@
+﻿  unittest1.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(93): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\b_tree\unittest1.cpp(18): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Sequence_tree<HumanParameters>::Generate(int)"
+  c:\users\аня егорова\source\repos\лр0\b_tree\unittest1.cpp(17): note: выполняется компиляция ссылки на экземпляр шаблон класс "Sequence_tree<HumanParameters>"
+c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(235): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(222): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(22): note: выполняется компиляция ссылки на экземпляр шаблон функции "void B_tree<int,HumanParameters>::Search(TYPE,B_node<TElement> *)"
+          with
+          [
+              TYPE=int,
+              TElement=HumanParameters
+          ]
+  c:\users\аня егорова\source\repos\лр0\b_tree\unittest1.cpp(22): note: выполняется компиляция ссылки на экземпляр шаблон класс "B_tree<int,HumanParameters>"
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(239): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(269): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(273): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(106): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(89): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(19): note: выполняется компиляция ссылки на экземпляр шаблон функции "void B_tree<int,HumanParameters>::Insert(TElement *)"
+          with
+          [
+              TElement=HumanParameters
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(107): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(111): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(112): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(67): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(53): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(50): note: выполняется компиляция ссылки на экземпляр шаблон функции "void B_tree<int,HumanParameters>::Sort(B_node<TElement> *)"
+          with
+          [
+              TElement=HumanParameters
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(68): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(72): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\b_tree.h(73): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  B_tree.vcxproj -> C:\Users\Аня Егорова\source\repos\ЛР0\x64\Debug\B_tree.dll

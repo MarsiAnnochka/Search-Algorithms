@@ -1,0 +1,26 @@
+﻿  unittest1.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(176): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(167): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(16): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinarySearch<int>::TwoNumbers(SortedSequence *,TElement)"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\binarysearching\unittest1.cpp(31): note: выполняется компиляция ссылки на экземпляр шаблон класс "BinarySearch<int>"
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(205): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(234): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(81): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(79): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(15): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinarySearch<int>::GoldenRatio(SortedSequence *,TElement)"
+          with
+          [
+              TElement=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(81): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(88): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(89): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(114): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(115): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(140): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(141): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  BinarySearching.vcxproj -> C:\Users\Аня Егорова\source\repos\ЛР0\Debug\BinarySearching.dll

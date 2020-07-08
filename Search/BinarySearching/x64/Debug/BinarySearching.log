@@ -1,0 +1,96 @@
+﻿  unittest1.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(93): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\binarysearching\unittest1.cpp(18): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Sequence_tree<HumanParameters>::Generate(int)"
+  c:\users\аня егорова\source\repos\лр0\binarysearching\unittest1.cpp(17): note: выполняется компиляция ссылки на экземпляр шаблон класс "Sequence_tree<HumanParameters>"
+c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(260): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(206): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(23): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinarySearch<int,HumanParameters>::Fibonacci(Sequence_tree<HumanParameters> *,TYPE,int)"
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\binarysearching\unittest1.cpp(23): note: выполняется компиляция ссылки на экземпляр шаблон класс "BinarySearch<int,HumanParameters>"
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(264): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(169): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(137): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(22): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinarySearch<int,HumanParameters>::TwoNumbers(Sequence_tree<HumanParameters> *,TYPE,int)"
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(170): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(174): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(175): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(84): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(75): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(21): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinarySearch<int,HumanParameters>::GoldenRatio(Sequence_tree<HumanParameters> *,TYPE,int)"
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(84): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(91): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(92): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(101): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(102): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(106): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(107): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(51): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(28): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(20): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinarySearch<int,HumanParameters>::InHalf(Sequence_tree<HumanParameters> *,TYPE,int)"
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(55): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  BinarySearching.vcxproj -> C:\Users\Аня Егорова\source\repos\ЛР0\x64\Debug\BinarySearching.dll

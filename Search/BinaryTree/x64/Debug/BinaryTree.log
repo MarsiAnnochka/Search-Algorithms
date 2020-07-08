@@ -1,0 +1,50 @@
+﻿  unittest1.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(93): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\binarytree\unittest1.cpp(17): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Sequence_tree<HumanParameters>::Generate(int)"
+  c:\users\аня егорова\source\repos\лр0\binarytree\unittest1.cpp(16): note: выполняется компиляция ссылки на экземпляр шаблон класс "Sequence_tree<HumanParameters>"
+c:\users\аня егорова\source\repos\лр0\лр0\sequence_tree.h(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(184): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(171): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(24): note: выполняется компиляция ссылки на экземпляр шаблон функции "TreeNode<TElement> *BinaryTree<int,TElement>::Insert(TreeNode<TElement> *,HumanParameters *)"
+          with
+          [
+              TElement=HumanParameters
+          ]
+  c:\users\аня егорова\source\repos\лр0\binarytree\unittest1.cpp(21): note: выполняется компиляция ссылки на экземпляр шаблон класс "BinaryTree<int,HumanParameters>"
+c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(185): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(189): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(190): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(114): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(103): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(27): note: выполняется компиляция ссылки на экземпляр шаблон функции "void BinaryTree<int,HumanParameters>::Search(TYPE)"
+          with
+          [
+              TYPE=int
+          ]
+c:\users\аня егорова\source\repos\лр0\лр0\binarytree.h(118): warning C4244: =: преобразование "float" в "TYPE", возможна потеря данных
+          with
+          [
+              TYPE=int
+          ]
+  BinaryTree.vcxproj -> C:\Users\Аня Егорова\source\repos\ЛР0\x64\Debug\BinaryTree.dll

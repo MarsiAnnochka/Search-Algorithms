@@ -1,0 +1,37 @@
+﻿  unittest1.cpp
+c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(64): error C2664: "Node<TElement>::Node(Node<TElement> &&)": невозможно преобразовать аргумент 1 из "TElement" в "TElement *"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(64): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(70): error C2664: "Node<TElement>::Node(Node<TElement> &&)": невозможно преобразовать аргумент 1 из "TElement" в "TElement *"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(70): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(101): error C2664: "Node<TElement>::Node(Node<TElement> &&)": невозможно преобразовать аргумент 1 из "TElement" в "TElement *"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(101): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(107): error C2664: "Node<TElement>::Node(Node<TElement> &&)": невозможно преобразовать аргумент 1 из "TElement" в "TElement *"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(107): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(137): error C2664: "Node<TElement>::Node(Node<TElement> &&)": невозможно преобразовать аргумент 1 из "TElement" в "TElement *"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(137): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(143): error C2664: "Node<TElement>::Node(Node<TElement> &&)": невозможно преобразовать аргумент 1 из "TElement" в "TElement *"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\аня егорова\source\repos\лр0\unittest_lr0\unittest1.cpp(143): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

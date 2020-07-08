@@ -1,0 +1,13 @@
+﻿  BinarySearch.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(176): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(372): note: выполняется компиляция ссылки на экземпляр шаблон класс "BinarySearch<TElement>"
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(205): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(234): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortedSequence.cpp
+  ЛР0.cpp
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(176): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(372): note: выполняется компиляция ссылки на экземпляр шаблон класс "BinarySearch<TElement>"
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(205): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\аня егорова\source\repos\лр0\лр0\binarysearch.h(234): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  ЛР0.vcxproj -> C:\Users\Аня Егорова\source\repos\ЛР0\Debug\ЛР0.exe
